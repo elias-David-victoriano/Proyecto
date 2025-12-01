@@ -303,4 +303,4 @@ void ListaCandidatas(
             }
         }
     }
-}git commit -m "sexto commit"
+}git commit -m "séptimo commit"
