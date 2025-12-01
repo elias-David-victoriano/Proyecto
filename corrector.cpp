@@ -303,4 +303,4 @@ void ListaCandidatas(
             }
         }
     }
-}git commit -m "primer commit"
+}git commit -m "segundo commit"
